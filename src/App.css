@@ -1,7 +1,6 @@
 @import '~antd/dist/antd.css';
 main {
-  padding-top: 50px;
-  padding-left: 80px
+  padding: 50px 80px;
 }
 .form {
   margin-bottom: 20px;
